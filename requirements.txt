@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+nltk
+emoji
+streamlit
+matplotlib
+seaborn
+pickle-mixin
+gunicorn
+
+add this name krishnakant rajbhar
+email id krishnakant.kkr1@gmail.com
+linkedin:-https://www.linkedin.com/in/krishnakantrajbhar/
+github:-https://github.com/Krishnakant73
+innomatics-research-labs-internship Data Science Internship,(Intern ID: IN125111611),“Data Science with GenAI Intern – Online”, MLOPS - Task,Assignment
+Sentiment Analysis of Real-time Flipkart Product Reviews,Project Document link by innomatics https://docs.google.com/document/d/1-xeuyrqDlLP-mJ2Pa6MsllL0nWdtsQXYSseHrxCjwSE/edit?tab=t.0 add those in aapy.py and in readme file
